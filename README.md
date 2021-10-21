@@ -2,7 +2,7 @@
 
 E-mail： 2567576080@qq.com
 
-# 导师：王恪铭(Wang KeMing)
+#### 导师：王恪铭(Wang KeMing)
 
 ### 专业：交通信息工程及控制
 
