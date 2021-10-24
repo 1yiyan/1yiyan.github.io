@@ -10,9 +10,9 @@ E-mail： 2567576080@qq.com
 
 #### Ability
 
-掌握编程语言c、c#、python及形式化方法B语言等
+掌握编程语言c、c#及形式化方法B语言等
 
-熟练使用Atlier B、SCADE、Rodin、Simulink、Visual Studio等工具
+熟练使用Atlier B、Rodin、Simulink、Visual Studio等工具
 
 
 #### Experience
